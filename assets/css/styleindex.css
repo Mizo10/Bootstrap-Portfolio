@@ -31,13 +31,14 @@ padding-top: 15px;
 
 
 }
-
-.about{
+.about{ 
+    color: #777777;    
+}
+.Portfolio{
     color: #777777;
-    margin-top: 20px;
-    float: right;
-    
-
+}
+.Contact{
+    color: #777777;
 }
 /* #page-wrap {
     height:80px;
